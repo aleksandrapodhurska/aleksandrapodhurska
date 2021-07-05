@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleksandrapodhurska. I am a full stack developer student with a strong desire to gain high proficiency in development.
+- 👋 Hi, I’m @aleksandrapodhurska. I am a full stack development student with a strong desire to gain high proficiency in development.
 - 👀 I’m interested in learning languages and reading. For now I speak English and Hebrew fluently, while Russian is my mother tongue.
 - 🌱 So currently I'm working on deeper undestanding in JavaScript and challenging myself in React. Untill June 2021 I learnt all the JavaScript and React concepts by myself
       until I desided to get expert mentorship in my code school.
