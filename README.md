@@ -1,18 +1,17 @@
-👋 Hi there, I am a full stack developer with a strong desire to gain the highest proficiency in Software Development field.
+👋 Hi there, I'm an experienced full-stack developer with a proven track record of delivering high-quality software solutions.
 
 Some picks about me:
 
-✍🏻 I am a Full stack developer with production experience in designing, developing, and maintaining websites tailored to clients' needs, with a focus on usability, responsive design, and performance
+✍🏻 With extensive production experience, I specialize in designing, developing, and maintaining websites that are not only visually appealing but also highly functional, responsive, and performant.
 
-🥷🏻 Skilled in various programming languages, technologies and tools for both Front-end and Back-end
+🥷🏻 Proficient in a wide range of programming languages, technologies, and tools for both front-end and back-end development.
 
-🤝🏻 Familiar with MVC frameworks and SDLC principles
+🤝🏻 Well-versed in MVC frameworks and Software Development Life Cycle (SDLC) principles, ensuring robust and scalable software architecture.
 
-🦁 Being a fearless self-starter, meeting challenges on my way I never give up and go on running my game
+🦁 As a proactive and fearless self-starter, I tackle challenges head-on, continuously striving to achieve excellence in every project.
 
-👩🏻‍💻 Adept of self-education that is able to learn fast and grasp new concepts rapidly
+👩🏻‍💻 Committed to lifelong learning, I quickly adapt to new technologies and concepts, staying up-to-date with industry trends.
 
-📫 You can reach me on a.podhurska@gmail.com or on LinkedIn - https://www.linkedin.com/in/aleksandra-podhurska/
 
 <!---
 aleksandrapodhurska/aleksandrapodhurska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
