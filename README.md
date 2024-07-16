@@ -2,7 +2,7 @@
 
 Some picks about me:
 
-✍🏻 With extensive production experience, I specialize in designing, developing, and maintaining websites that are not only visually appealing but also highly functional, responsive, and performant.
+✍🏻 With extensive production experience, I specialize in designing, developing, and maintaining software and websites that are not only visually appealing but also highly functional, responsive, and performant.
 
 🥷🏻 Proficient in a wide range of programming languages, technologies, and tools for both front-end and back-end development.
 
